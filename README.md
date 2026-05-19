@@ -1,6 +1,11 @@
 # 🖼️ Image Projector
 
-
+![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows)
+![Language](https://img.shields.io/badge/Language-VB.NET_2012-854CC9?style=flat-square&logo=visual-studio)
+![Locale](https://img.shields.io/badge/Locale-正體中文-orange?style=flat-square)
+![License](https://img.shields.io/badge/License-GPL_v3-red?style=flat-square)
+![Latest Release](https://img.shields.io/github/v/release/ArtLife-Software/Image_Projector?style=flat-square&color=blue)
+![Downloads](https://img.shields.io/github/downloads/ArtLife-Software/Image_Projector/total?style=flat-square&logo=github)
 
 > 專為課堂、講座與簡報設計的圖片投影工具  
 > 雙螢幕即時同步 · 畫筆標註 · 遮罩覆蓋 · 聚光燈聚焦
